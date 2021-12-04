@@ -1,0 +1,71 @@
+.banner {
+    background: url("wp2.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 30%;
+    color: #000;
+}
+
+.circleboiz{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #0d6efd;
+}
+
+.circleboiz i{
+    position: relative;
+    top: 30px;
+}
+
+.testerone {
+    text-decoration: none;
+}
+
+.testerone:hover{
+    background-color: rgb(22, 157, 236);
+    color: rgb(255, 255, 255);
+    padding: 3px 5px;
+    border-radius: 15%;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.team img{
+    width: 250px;
+    border: 10px solid #ccc;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client {
+    height: auto;
+    max-height: 50px;
+    padding-bottom: 150px;
+}
+
+.contact {
+    padding-top: 150px;
+    background: url(/des/wp1.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+.tester22 {
+    text-decoration: none;
+}
